@@ -3,8 +3,8 @@
 Welcome to **Popular Doodle Games**, your ultimate destination to play the most **popular Google Doodle games online for free**.  
 Our platform brings together iconic, fun, and nostalgic doodle games that millions of users love — all in one place.
 
-👉 **Official Website:** https://populardoodlegames.net  
-👉 **Live Play Website:** *(Link will be added soon)*
+👉 **Official Website:** [Popular Doodle Games](https://populardoodlegames.net)
+👉 **Live Play Website:** https://nightteerresult.github.io/popular-doodles-google-games/
 
 ---
 
@@ -87,7 +87,7 @@ This website is created for **educational and entertainment purposes only** and 
 ## 🔗 Stay Connected
 
 🌐 Website: https://populardoodlegames.net  
-🎮 Live Games: *(Coming Soon)*  
+🎮 Live Games: https://nightteerresult.github.io/popular-doodles-google-games 
 
 ⭐ If you like this project, don’t forget to **star this repository** and share it with fellow doodle game fans!
 
